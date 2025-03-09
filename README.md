@@ -1,11 +1,9 @@
 ﻿# 💫 About Me:
 
 - 👨‍🎓 Computer Science student at University of Galway
-- 🔭 I’m currently working on Magnate
-- 🌱 I’m currently learning Spring Boot and React Js
+- 🔭 I’m currently working on Bus-Hive
 - 💬 Ask me about Android development
 - 👨‍💻 My portfolio is available at [jakubolszewski.netlify.app](https://jakubolszewski.netlify.app/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aywkSqH7xTcLVBV0mWMruLfbXC5snOKu/view?usp=sharing)
 - 📫 How to reach me: j.olszewski05@gmail.com
 
 ## 🌐 Socials:
