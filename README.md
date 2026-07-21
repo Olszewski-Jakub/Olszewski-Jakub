@@ -1,7 +1,6 @@
 ﻿# 💫 About Me:
 
 - 👨‍🎓 Computer Science student at University of Galway
-- 🔭 I’m currently working on Bus-Hive
 - 💬 Ask me about Android development
 - 👨‍💻 My portfolio is available at [jakubolszewski.dev](https://jakubolszewski.dev)
 - 📫 How to reach me: j.olszewski05@gmail.com
